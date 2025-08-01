@@ -1,0 +1,9 @@
+data/
+data/clean/
+data/raw/
+output/
+misc/
+results/
+.Rproj.user
+.Rhistory
+database/
